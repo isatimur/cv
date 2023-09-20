@@ -1,10 +1,11 @@
----
 
 **Timur Isachenko**  
 Java/Kotlin Developer | Solution Architect | Technical Lead  
-📞 +7 (918) 380-37-83  
+📞 +382 67 58-42-13 
+📞 +7 (918) 380-37-83   
 📧 isatimur.it@gmail.com  
-🌐 LinkedIn: timur.isa  
+🌐 Skype: timur.isa  
+🌐 Telegram: +79183803783/timur_isachenko  
 📍 Montenegro
 
 ---
