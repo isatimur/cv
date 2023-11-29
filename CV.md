@@ -1,7 +1,7 @@
 
 ## Technical Lead / Architect  
 ### **Timur Isachenko**
-
+![image](./1517417674396.jpeg)
 #### Contact Information:
 - **Phone:** +38267584213
 - **Email:** [isatimur.it@gmail.com](mailto:isatimur.it@gmail.com)
