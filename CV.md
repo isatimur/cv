@@ -1,80 +1,68 @@
 
-**Timur Isachenko**  
-Java/Kotlin Developer | Solution Architect | Technical Lead  
-📞 +382 67 58-42-13 
-📞 +7 (918) 380-37-83   
-📧 isatimur.it@gmail.com  
-🌐 Skype: timur.isa  
-🌐 Telegram: +79183803783/timur_isachenko  
-📍 Montenegro
+## Technical Lead / Architect  
+### **Timur Isachenko**
 
----
+#### Contact Information:
+- **Phone:** +38267584213
+- **Email:** [isatimur.it@gmail.com](mailto:isatimur.it@gmail.com)
+- **LinkedIn:** [linkedin.com/in/timur-isachenko](https://www.linkedin.com/in/timur-isachenko/)
 
-**Summary:**  
-With over 14 years of experience in the IT domain, I specialize in Java and Kotlin development, system integration, and IT consulting. My journey has seen me transition from hands-on development roles to leadership positions, managing teams and architecting scalable solutions. I'm passionate about leveraging technology to solve complex business challenges and am always eager to explore new horizons in the tech landscape.
+#### Professional Profile:
+Distinguished Technical Lead and Architect with extensive experience in developing high-load systems within finance, healthcare, and online banking sectors. Renowned for leading diverse teams, designing sophisticated architectural solutions, and delivering trailblazing technology projects. Adept at navigating complex technical challenges, with a deep commitment to driving digital innovation.
 
----
+#### Professional Experience:
 
-**Technical Expertise:**  
-- Languages: Java, Kotlin
-- Frameworks: Spring Boot, Reactive, GXT MVC, Apache Camel
-- Databases: Oracle RDBMS, PostgreSQL, MongoDB, Cassandra
-- Tools: Elasticsearch, JOOQ, PlanUML
-- Web: ReactJS, JavaScript, jQuery
-- Certifications: Oracle Certified Associate Java SE 8, Oracle Certified Professional Java SE 8
+**Technical Leader / Project Architect**  
+_IDS, Moscow, Russia_  
+_November 2022 - Present_
+- Spearheaded the design and implementation of a billing system for betting and gambling platforms using Kotlin, Spring Cloud API Gateway, MongoDB, and Kubernetes.
 
----
+**Technical Lead**  
+_EastBanc Technologies_  
+_May 2022 - July 2023_
+- Led the technical development of a grant system for California's healthcare sector, with potential for national scalability.
+- Managed various projects, including payment system migration from Cybersource to Braintree Paypal for Redcross, and developing a notification service for Glorifi Bank.
 
-**Professional Experience:**
+**Senior Java Team Leader / Enterprise Architect**  
+_Business Environment, Moscow, Russia_  
+_September 2017 - June 2022_
+- Orchestrated the development of an educational platform on a microservices architecture using Play Framework, MyBatis, and Postgres.
+- Headed a team of 20, implementing numerous system integrations, including payment solutions and webhooks.
 
-**Java Developer/Solution Architect**  
-*EastBanc Technologies (US)*  
-May 2022 - Present  
-- Led the Glorify Bank project, integrating DriveWealth with AWS SQS events to Kafka and Azure Cloud.
-- Managed payment migration for Red Cross from CyberSource to Braintree Paypal.
-- Developed MVP for Grant Management System for the International Responder System.
+**Senior Developer / Fullstack Developer**  
+_AT-Consulting, Moscow, Russia_  
+_September 2014 - September 2017_
+- Key contributor to the Sberbank.ru redevelopment on the BackBase platform, integrating React widgets with Java backend.
+- Resolved critical challenges in the UC2GET project, demonstrating full-stack development expertise.
+- Participated in pre-sale projects for Gazprom's Media Archive and Altynbank, along with video verification projects incorporating Apache Cordova, PayPal SDK, and WebRTC.
 
-**Technical Lead/Head Architect**  
-*JSC Business Environment, Moscow*  
-September 2017 - May 2022  
-- Managed backend development teams and architected microservices for the "Entrepreneurial Education Platform" (dasreda.ru).
-- Transitioned from Lead Java Developer to Chief Backend Architect, overseeing company-wide projects and liaising with Sberbank's Corporate Architecture Department.
+**QA Engineer / CGS Duty Manager**  
+_ATOS, Sochi, Russia_  
+_2012 - 2014_
+- Enhanced problem-solving skills during the Sochi 2014 Olympics operations.
+- Awarded two silver medals in the Accolade Awards for process improvement and automation.
+- Managed third-level support, change management, incident management, and system administration.
 
-**Senior Java Developer (Expert)**  
-*AT Consulting, Moscow*  
-September 2014 - September 2017  
-- Worked on diverse projects ranging from Tele2's API development to Sberbank's public portal.
-- Led the backend integration of Altyn-i bank with Backbase & Oracle Access Manager.
-- Developed and improved the government HR portal (trudvsem.ru).
+**Java Developer / Specialist**  
+_Kuban Energo, Krasnodar, Russia_  
+_2009 - 2012_
+- Began as a Junior Java Developer, advancing to Senior Specialist.
+- Engaged in projects involving XSLT, XML, Java, and PHP.
+- Selected for the "Golden 100" HR reserve program at MRSK Holding, demonstrating elite potential.
 
-**Senior Developer Oracle Hyperion Planning/Essbase**  
-*Megafon, Krasnodar*  
-May 2014 - September 2014  
-- Developed reporting tools using a variety of technologies including Java EE & SE, Apache Velocity, and Oracle Hyperion.
+#### Education and Certifications:
+- Specialist Degree in Computer Science and Applied Mathematics, Kuban State University (KubSU), 2005-2010
+- Oracle Certified Java Associate, Java SE 8
+- Oracle Certified Java Professional, Java SE 8
 
-**CGS Specialist & TOC Duty Manager**  
-*Atos, Sochi*  
-July 2012 - April 2014  
-- Played a key role in the technological operations for the "Sochi 2014 Olympic and Paralympic Winter Games".
-- Managed the delivery and integration testing of the Core Games Systems applications.
+#### Additional Experience and Achievements:
+- Co-authored "High Performance In-Memory Data Grid with Ignite."
+- Conducted Java courses and presented on multi-tenancy at local conferences.
+- Appeared on television for professional insights and participation in running events.
 
----
-
-**Education:**  
-- **MGTU**  
-  Faculty of Economy, Anticrisis Management / Manager, 2011
-- **Kuban State University, Krasnodar**  
-  Faculty of Computer Technologies and Applied Mathematics, Applied Mathematics and Informatics, 2010
-
----
-
-**Languages:**  
-- Russian: Native
-- English: Advanced (C1)
-
----
-
-**About Me:**  
-Beyond my technical pursuits, I'm an avid traveler, blending my passion for technology with exploration. I'm also a co-author of the book "High Performance in-memory computing with Apache Ignite."
-
----
+#### Skills:
+- Leadership in Technical Projects
+- Architectural Planning and Microservices Design
+- Full-Stack Development (Java, Kotlin, React)
+- System Integration and Complex Problem-Solving
+- Effective Communication and Public Speaking
