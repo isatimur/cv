@@ -56,24 +56,14 @@
             background: #333;
             color: #fff;
         }
-        #avatar {
-            /* This image is 687 wide by 1024 tall, similar to your aspect ratio */
-            background-image: url('https://github.com/isatimur/cv/blob/main/1517417674396.jpeg');
-            
-            /* make a square container */
-            width: 150px;
-            height: 150px;
         
-            /* fill the container, preserving aspect ratio, and cropping to fit */
-            background-size: cover;
-        
-            /* center the image vertically and horizontally */
-            background-position: top center;
-        
-            /* round the edges to a circle with border radius 1/2 container size */
-            border-radius: 50%;
+        img {
+          object-fit: cover;
+          object-position: top center;
+          border-radius:50%;
+          width: 150px;
+          height: 150px;
         }
-
     </style>
 </head>
 <body>
@@ -84,7 +74,7 @@
         </header>
 
         <section class="profile">
-            <div id="avatar"></div>
+            <img src="https://raw.githubusercontent.com/isatimur/cv/main/1517417674396.jpeg" />
             <h2>Contact Information</h2>
             <p>Phone: +38267584213 | Email: <a href="mailto:isatimur.it@gmail.com">isatimur.it@gmail.com</a> | LinkedIn: <a href="https://www.linkedin.com/in/timur-isachenko/" target="_blank">linkedin.com/in/timur-isachenko</a></p>
         </section>
